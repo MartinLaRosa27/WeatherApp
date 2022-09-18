@@ -1,0 +1,20 @@
+.clima .min-max p {
+  display: inline-block;
+  margin-right: 10%;
+  color: rgb(225, 56, 56);
+}
+
+.clima .min-max p:last-child {
+  margin-right: 0;
+  color: #409f40 !important;
+}
+.clima .img {
+  margin: 0;
+}
+
+.formulario {
+  background-color: rgb(227, 227, 227);
+  border-radius: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
